@@ -4,3 +4,12 @@
 .blackBord {
   border: 2px solid black;
 }
+.yellow {
+  background-color: yellow;
+}
+.pad {
+  padding: 3px;
+}
+.green {
+  background-color: green;
+}
