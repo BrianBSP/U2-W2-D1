@@ -8,8 +8,20 @@
   background-color: yellow;
 }
 .pad {
-  padding: 3px;
+  padding: 3rem;
 }
 .green {
   background-color: green;
+}
+.red {
+  background-color: red;
+}
+.gray {
+  background-color: gray;
+}
+.cyan {
+  background-color: cyan;
+}
+.dark {
+  background-color: darkgray;
 }
